@@ -1,1 +1,3 @@
-console.log("Hola mundo usando Nodemon!");
+const functions = require('./functions')
+
+console.log(functions.getTitle);
