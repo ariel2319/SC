@@ -1,0 +1,24 @@
+{
+  "name": "node-starting",
+  "version": "0.0.1",
+  "description": "Proyecto Node de curso de SC",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js",
+    "console": "echo 'Hola mundo desde script' && npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariel2319/SC.git"
+  },
+  "author": "arry23",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ariel2319/SC/issues"
+  },
+  "homepage": "https://github.com/ariel2319/SC#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}

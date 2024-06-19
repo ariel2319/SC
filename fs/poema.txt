@@ -1,0 +1,40 @@
+
+En el vasto reino del código y el ser,
+Surge Node.js, un faro a conocer,
+Entre líneas de JavaScript se alza con poder,
+Servidor asíncrono, sin igual por doquier.
+
+Con su motor V8, de Chrome la chispa,
+Ejecuta en tiempo real, sin pausa ni rispa.
+Sin bloqueos, en bucles, sus promesas cumple,
+Hilos ligeros, mil tareas nunca torpes.
+
+Desde el backend dirige, con maestría y arte,
+Microservicios y APIs, su impacto se comparte.
+Socket.IO, su aliado en tiempo real,
+Chat en vivo, juegos en red, en un vuelo astral.
+
+Express, su fiel escudero, rutas traza y guía,
+RESTful APIs, respuestas claras día a día.
+Con MongoDB o MySQL se conecta sin cesar,
+Guardando datos, historias, en cada lugar.
+
+npm, su arsenal de módulos, a la orden,
+Miles de paquetes, el desarrollo desborden.
+Desde Passport para autenticar y proteger,
+Hasta EJS para las vistas componer.
+
+Asíncrono en esencia, no teme la espera,
+Eventos y promesas, su estructura ligera.
+Con callbacks y async/await navega el mar,
+Resuelve cada tarea sin frenar.
+
+Node.js, faro en la era digital,
+Capaz de levantar desde un microservicio a un portal.
+Código abierto, comunidad fraternal,
+Juntos en GitHub, construyen un ideal.
+
+Así, en versos breves, rindo homenaje,
+A Node.js, en su incansable viaje.
+En cada byte, en cada línea y servidor,
+Late su pulso, la sinfonía del creador.
