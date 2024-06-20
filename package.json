@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Proyecto Node de curso de SC",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node src/app.js",
     "dev": "nodemon src/app.js",

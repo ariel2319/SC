@@ -1,3 +1,1 @@
-const functions = require('./functions')
-
-console.log(functions.getTitle);
+console.log(process.env.PORT ?? 8080);

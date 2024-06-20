@@ -1,10 +1,10 @@
-const curso = {
+export const curso = {
   nombre: 'Curso de NodeJS',
   autor: 'SC'
 }
 
 
 //exportar-importar método anterior
-module.exports = {
- curso
-}
+/* module.exports = {
+  curso
+} */
